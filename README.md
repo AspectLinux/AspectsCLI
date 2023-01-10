@@ -1,7 +1,7 @@
 # AspectsCLI
 A CLI interface to the aspects software installation system.
 
-# The comcepts of "aspects"
+# The concept of "aspects"
 
 I have a cool concept for making AspectOS completely different from the competition.
 
