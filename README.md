@@ -20,7 +20,7 @@ asp.image_editor("krita") # You can have multiple of the same app
 # More code...
 asp.custom_app("Image Editor", "https://example.org/exampleimaged.py") # You can also reference custom DE's
 ```
-Taken from [https://scratch.mit.edu/discuss/topic/646359/?page=23#post-6883608](this scratch forum post). 
+Taken from [this scratch forum post](https://scratch.mit.edu/discuss/topic/646359/?page=23#post-6883608). 
 
 # Links
 The first party aspects: https://github.com/AspectLinux/FirstPartyAspects/
