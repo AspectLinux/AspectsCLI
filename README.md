@@ -18,7 +18,7 @@ asp.desktop("cinnamon") # You can only have one desktop.
 asp.image_editor("gimp")
 asp.image_editor("krita") # You can have multiple of the same app
 # More code...
-asp.custom_app("Image Editor", "https://example.org/exampleimaged.py") # You can also reference custom DE's
+asp.custom_app("Image Editor", "https://example.org/exampleimaged.py") # You can also reference custom IDE's
 ```
 Taken from [https://scratch.mit.edu/discuss/topic/646359/?page=23#post-6883608](this scratch forum post). 
 
